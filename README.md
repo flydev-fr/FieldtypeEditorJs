@@ -15,3 +15,7 @@
 * Delimiter
 * Raw HTML
 * Note (custom block markup)
+
+## Preview
+
+![Preview Of EditorJS for ProcessWire](https://github.com/flydev-fr/FieldtypeEditorJs/blob/master/editorjspw.gif)
